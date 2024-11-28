@@ -17,6 +17,7 @@ body {
     background-size: cover;
     background-repeat: no repeat;
     
+    
 }
 
 #main {
@@ -60,6 +61,7 @@ footer {
     text-align: center;
     background-color: #D90000;
     padding: 20px;
+    
 }
 
 #main p,h1,h2,h3{
